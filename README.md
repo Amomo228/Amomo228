@@ -1,4 +1,4 @@
-<div aligh="center">
+<div align="center">
 <h1>Hi! Im Amomo</h1>
-<img src="https://raw.githubusercontent.com/Amomo228/amomo/refs/heads/main/assets/%E2%98%BE.jpg" width="25%" aligh="right">
+<img src="https://raw.githubusercontent.com/Amomo228/amomo/refs/heads/main/assets/%E2%98%BE.jpg" width="25%" align="right">
 </div>
